@@ -33,6 +33,5 @@
 
 |흑돌 승리|백돌 승리|새 게임|
 |---|---|---|
-|![오목 흑돌 승리](https://github.com/djm06149/Omok/assets/72903223/1200c05b-1535-4bed-ba59-9492cf3d7748)|![오목 백돌 승리](https://github.com/djm06149/Omok/assets/72903223/aad3212d-b95a-4f16-a994-1dbfc1ae0e55)|![오목 새게임](https://github.com/djm06149/Omok/assets/72903223/ccc13fa4-126c-427b-be03-ec64608b8cf8)
-|
+|![오목 흑돌 승리](https://github.com/djm06149/Omok/assets/72903223/1200c05b-1535-4bed-ba59-9492cf3d7748)|![오목 백돌 승리](https://github.com/djm06149/Omok/assets/72903223/aad3212d-b95a-4f16-a994-1dbfc1ae0e55)|![오목 새게임](https://github.com/djm06149/Omok/assets/72903223/ccc13fa4-126c-427b-be03-ec64608b8cf8)|
 |흑돌 승리 창|백돌 승리 창|새 게임 창|
