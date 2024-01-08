@@ -15,7 +15,7 @@
 - 멤버: 팀 우석인(손지승, 김상호)
 
 ## 게임 설명
-|![image](https://user-images.githubusercontent.com/66003567/216818254-18683c3f-af80-4009-b2cc-35bdee865f23.png)|![image](https://user-images.githubusercontent.com/66003567/216818272-8749569b-b217-4572-9738-32b0058459f4.png)|
+|![오목 시작화면](https://github.com/djm06149/Omok/assets/72903223/a57df009-1f51-4854-9751-6efd06be7ca4)|![image](https://user-images.githubusercontent.com/66003567/216818272-8749569b-b217-4572-9738-32b0058459f4.png)|
 |:---:|:---:|
 |시작 화면|게임 화면|
 
